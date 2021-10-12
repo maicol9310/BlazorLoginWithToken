@@ -118,3 +118,6 @@ C:\Users\tec02js1\Desktop\BlazorLoginWithToken\LoginBlazorToken.Server\obj\Debug
 C:\Users\tec02js1\Desktop\BlazorLoginWithToken\LoginBlazorToken.Server\obj\Debug\net5.0\ref\LoginBlazorToken.Server.dll
 C:\Users\tec02js1\Desktop\BlazorLoginWithToken\LoginBlazorToken.Server\obj\Debug\net5.0\LoginBlazorToken.Server.pdb
 C:\Users\tec02js1\Desktop\BlazorLoginWithToken\LoginBlazorToken.Server\obj\Debug\net5.0\LoginBlazorToken.Server.genruntimeconfig.cache
+C:\Users\tec02js1\Desktop\BlazorLoginWithToken\LoginBlazorToken.Server\bin\Debug\net5.0\Blazored.LocalStorage.dll
+C:\Users\tec02js1\Desktop\BlazorLoginWithToken\LoginBlazorToken.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\tec02js1\Desktop\BlazorLoginWithToken\LoginBlazorToken.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
