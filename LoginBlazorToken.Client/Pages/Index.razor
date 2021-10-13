@@ -7,7 +7,7 @@
             <div>
                 @foreach (var claim in userClaim)
                 {
-                    <div>@claim.Type - @claim.Value</div>
+                    <div>@claim.Value</div>
                 }
             </div>
             <div>
@@ -39,11 +39,11 @@
 
     private async Task Login()
     {
-        _accountService.Login();
+        await _accountService.LoginAsync();
     }
 
-    private void Logout()
+    private async void Logout()
     {
-        _accountService.Logout();
+        await _accountService.LogoutAsync();
     }
 }

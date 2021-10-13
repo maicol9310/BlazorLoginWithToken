@@ -199,12 +199,12 @@
       "netstandard.dll": "sha256-5TcSqPhm3fAT6s3NH7+BMGakcfGgZGd3\/\/cVwVs2VPI=",
       "System.Private.CoreLib.dll": "sha256-VJv3DLM\/G0m\/RnTeWL9X8mkbxlsn8nNRhm0BHYEY+uo=",
       "LoginBlazorToken.Shared.dll": "sha256-wDEMZOFwU7VPe\/RTc68+kjTLZ+Jauk8Kl3FXAT5yB38=",
-      "LoginBlazorToken.Client.dll": "sha256-8E3EBXpgCSGmlSJ4cudbw95umE4mZ+bsQ0\/jTy1hJ7A="
+      "LoginBlazorToken.Client.dll": "sha256-6sNwAtO8g5VHlbsf0JamfJmmf0I+khAZGMJTFsTeXho="
     },
     "lazyAssembly": null,
     "pdb": {
       "LoginBlazorToken.Shared.pdb": "sha256-kyu9hjH6+HelPc5tl9+0zXgrnZGjjzWNKLQATDv9Q\/0=",
-      "LoginBlazorToken.Client.pdb": "sha256-OSlru+LxDFwOLbmtYBuvbTQXMtX8vszu1ywz3WrSvY4="
+      "LoginBlazorToken.Client.pdb": "sha256-xElznUBjtqrRBA3vizq6Zvedrh6BgML1yc+OF8bOgfY="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-PvlHrby1PYtdX46ITs6pB8iDNqXNcewh8Eoa\/Gm2+GM=",

@@ -7,7 +7,7 @@ namespace LoginBlazorToken.Client.Services
 {
     public interface IAccountService
     {
-        bool Login();
-        bool Logout();
+        Task<bool> LoginAsync();
+        Task<bool> LogoutAsync();
     }
 }

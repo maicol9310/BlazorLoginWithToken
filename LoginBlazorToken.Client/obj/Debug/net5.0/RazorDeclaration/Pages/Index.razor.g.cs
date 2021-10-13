@@ -138,12 +138,12 @@ using LoginBlazorToken.Client.Services;
 
     private async Task Login()
     {
-        _accountService.Login();
+        await _accountService.LoginAsync();
     }
 
-    private void Logout()
+    private async void Logout()
     {
-        _accountService.Logout();
+        await _accountService.LogoutAsync();
     }
 
 #line default
